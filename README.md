@@ -15,3 +15,5 @@ yarn dev
 - trocar a extensão dos arquivos de js para tsx
 
 - Tipar o myapp
+
+- yarn add sass
